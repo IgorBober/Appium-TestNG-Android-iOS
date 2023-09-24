@@ -1,3 +1,8 @@
 # Default ignored files
+/.idea/
+/logs/
+/Screenshots/
+/ServerLogs/
+/videos/
 /shelf/
 /workspace.xml
