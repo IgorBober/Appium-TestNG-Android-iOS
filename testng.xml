@@ -4,7 +4,7 @@
     <listeners>
             <listener class-name="com_qa_listeners.TestListener"/>
     </listeners>>
-        <parameter name="emulator" value="true"/>        //if I want to run it on RD - need to set emulator false
+        <parameter name="emulator" value="true"/>
         <parameter name="platformName" value="Android"/>
         <parameter name="platformVersion" value="13.0"/>
         <parameter name="udid" value="53C45458-6A04-4E0E-A4E1-B83EF0BCE9D6"/>
@@ -26,7 +26,7 @@
         <listeners>
             <listener class-name="com_qa_listeners.TestListener"/>
         </listeners>>
-        <parameter name="emulator" value="true"/>        //if I want to run it on RD - need to set emulator false
+        <parameter name="emulator" value="true"/>
         <parameter name="platformName" value="iOS"/>
         <parameter name="platformVersion" value="16.2"/>
         <parameter name="udid" value="53C45458-6A04-4E0E-A4E1-B83EF0BCE9D6"/>

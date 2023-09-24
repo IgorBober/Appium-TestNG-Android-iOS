@@ -7,9 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TDDFramework" />
         <module name="Appium-TestNG-Android-iOS" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Appium-TestNG-Android-iOS" target="15" />
+    </bytecodeTargetLevel>
   </component>
 </project>

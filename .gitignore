@@ -1,7 +1,6 @@
-# Project exclude paths
-/target/
 /.idea/
 /logs/
-/Screenshots/
 /ServerLogs/
+/target/
+/test-output/
 /videos/
