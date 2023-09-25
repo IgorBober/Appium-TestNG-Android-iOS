@@ -27,6 +27,8 @@ This is a project for automation testing of Swag Labs mobile app.
 - Integrated with Logging Framework
 - Integrated with Reporting framework
 - Implemented DeepLinks
+- Available to run tests using Maven in the terminal
+- Configured to run autotests in Jenkins CI system.
 
 ## Description of Project Structure
 
